@@ -1,5 +1,5 @@
-hii i have completed section-0
+css assignment
 now proceeding to section1
-this folder contains abt branching
+this folder contains abt css assignments
 
 hii welcome to capgemini
