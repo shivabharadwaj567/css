@@ -1,4 +1,4 @@
-css assignment
+jss assignment
 now proceeding to section1
 this folder contains abt css assignments
 
