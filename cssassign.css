@@ -4,13 +4,13 @@
 <style>
 p {
   text-align: center;
-  color: red;
+  color: blue;
 } 
 </style>
 </head>
 <body>
 
-<p>Every paragraph will be affected by the style.</p>
+<p>Every paragraph after affection.</p>
 <p id="para1">Me too!</p>
 <p>And me!</p>
 
